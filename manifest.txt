@@ -1,4 +1,4 @@
-version=0.3.4
-size=1073344
-sha256=49fb9c2e557cf3ce135a7f9ee90d410d6610f8decf501a2061a0ebc9f2ebd4e6
-url=https://raw.githubusercontent.com/flighteye-admin/FlightEye-MattsPlanet-Edition-Public/main/releases/main-0.3.4.bin
+version=0.3.5
+size=1073568
+sha256=c0d9e93c922ee0ff9149c6a03cab90b73f8a9cf2fd5c5daf9d62aa8ec29d0c92
+url=https://raw.githubusercontent.com/flighteye-admin/FlightEye-MattsPlanet-Edition-Public/main/releases/main-0.3.5.bin
